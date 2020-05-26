@@ -18,7 +18,7 @@ package javafinalodevi;
              hacim=h;
              basınc=b;
              agırlık=a;
-             // burda ise oluşturduğumuz nesne değişkenlerini atamak için bir metod kullanıyoruz
+             
          }
         
         void zıpla() //kullanıcının nesneyi oluşturduktan sonra fonksiyon olarak kullanacağı metod, bu metod ekrana topun zıpladığını yazıcak
